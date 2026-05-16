@@ -138,4 +138,4 @@ The test suite includes a small privacy regression test to avoid accidentally co
 
 ## License
 
-No license has been selected yet. If you want to reuse this project, open an issue first.
+MIT License. See [LICENSE](LICENSE).
