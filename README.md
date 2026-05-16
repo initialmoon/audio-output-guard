@@ -1,5 +1,7 @@
 # audio-output-guard
 
+English | [简体中文](README.zh-CN.md)
+
 A tiny macOS command-line tool that keeps microphone-style Bluetooth devices from stealing your audio output.
 
 It was originally built for a simple annoyance: when a DJI Mic Mini 2 reconnects, macOS may treat it as an output device. That can make system audio disappear into the microphone receiver instead of playing through your headphones or Mac speakers.
